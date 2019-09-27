@@ -6,7 +6,7 @@ const filterT = (lolData, condition) => {
   return result;
 };
 window.filterT = filterT;
-//
+
 const calculatingT = (lolData, condition) => {
   let calculateResult = filterT(lolData, condition).length;
   return calculateResult;

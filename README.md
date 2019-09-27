@@ -103,7 +103,7 @@ Nuestra pagina web es informativa por lo que se nos dio como idea llamar la pagi
   
 
 Enlace  figma
-https://www.figma.com/proto/Za2usuwNV9FLYptoTg26us/InfoGame?node-id=1%3A2&scaling=min-zoom
+[https://www.figma.com/proto/Za2usuwNV9FLYptoTg26us/InfoGame?node-id=1%3A2&scaling=min-zoom]
 
 ### Entrevista
 Con el prototipo de alta pedimos testeos de usuarios reales.
@@ -119,7 +119,9 @@ acá les dejamos dos vídeos de este testeo.
 
 [https://drive.google.com/drive/folders/12KTDO6WX9V9yC01dWAxKGefYeDCIk4dR](https://drive.google.com/drive/folders/12KTDO6WX9V9yC01dWAxKGefYeDCIk4dR)
 
+Evalucion heurística
 
+[https://docs.google.com/spreadsheets/d/1Gxl_i8Dp2lgaZ38fyJOz1ChUfaUCga1KXu2dwL1jIHo/edit#gid=0]
 
 ## Miembros del equipo
 * Francia Goenaga

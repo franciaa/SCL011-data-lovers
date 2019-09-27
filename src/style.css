@@ -21,6 +21,7 @@ body {
   height: 50px;
   margin-left: 40%;
   margin-top: -25px;
+  border-color: gold;
 }
 
 #header1 {
@@ -34,16 +35,18 @@ body {
 }
 
 .slider {
-  width: 1200px;
+  width: 95%;
   height: 900px;
   margin: auto;
+  overflow: hidden;
 }
 
 .slider ul {
   display: flex;
   padding: 0;
-  width: 300%;
+  width: 400%;
   animation: changee 17s infinite;
+  animation-timing-function:linear;
 }
 
 .slider li {
@@ -84,18 +87,20 @@ body {
   height: 190px;
   border-radius: 10px;
 }
+
 .champions {
   background-color: rgb(231, 220, 220);
- text-align: center;
- margin-top: 20px;
+  text-align: center;
+  margin-top: 20px;
 }
-#calculation{
-  margin-top:-20px;
+
+#calculation {
+  margin-top: -20px;
 }
+
 #namee {
   padding: 0 0 0 50px;
 }
-
 
 .flip-card {
   background-color: rgb(194, 165, 63);
@@ -164,32 +169,31 @@ body {
 /*******Tamaño celular*******/
 
 @media only screen and (max-width:768px) {
-  #next{
-  margin-left:110px;
-  margin-top: 60px;
+  #next {
+    margin-left: 110px;
+    margin-top: 60px;
   }
   #selects {
     width: 60px;
-    height:40px;
+    height: 40px;
     flex-flow: wrap;
     margin-top: 20px;
   }
   .champions {
     display: none;
   }
-  #calculation{
+  #calculation {
     margin-top: 35%;
   }
-  
-     .images{
-       width: 420px;
-       height: 200px;
-     }
-
-     #font{
-       padding: 10px;
-     }
-   #font2{ 
-     display: none;
-    }
+  .images {
+    width: 420px;
+    height: 200px;
+  }
+  #font {
+    padding: 10px;
+display: center;
+  }
+  #font2 {
+    display: none;
+  }
 }
