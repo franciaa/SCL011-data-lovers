@@ -4,8 +4,8 @@
 
 ## League of legends
 
-  
-<center><a href="https://imgbb.com/"><img  src="https://i.ibb.co/KwyBd2L/Logo-Sample-By-Tailor-Brands-11-1.png" alt="9e16aa55-7f20-401d-8e9a-bff56a60d6f3" border="0"></a></center>
+<center><a href="https://imgbb.com/"><img src="https://i.ibb.co/XJfw8mC/9e16aa55-7f20-401d-8e9a-bff56a60d6f3.jpg" alt="9e16aa55-7f20-401d-8e9a-bff56a60d6f3" border="0"></a></center>
+
 Nuestra pagina fue llamada InfoGame y fue realizada para jugadores intermedios que tienen previo conocimiento del juego de League of Legends pero que a la vez quisieran informarse con datos de sus personajes que puedan necesitar y asi con la informacion de nuestra pagina logren mejorar sus habilidades en el juego.
 
 ## Objetivos de InfoGame
@@ -122,13 +122,14 @@ acá les dejamos dos vídeos de este testeo.
 Gracias a los testeo y entrevistas pudimos integrar la opinion de nuestros usuarios y asi lograr la mejor experiencia de uso posible.
 
 
-Evalucion heurística
+Evaluacion heurística
 
 Aplique la evalucion heurística al fin de mi proyecto para identificar los errores de usabilidad y mostrar oportunidades de optimización.
 
 * https://docs.google.com/spreadsheets/d/1Gxl_i8Dp2lgaZ38fyJOz1ChUfaUCga1KXu2dwL1jIHo/edit#gid=0s
 
 Responsive
+
  se logro resposive en dispositivo movil.
 ![image](https://i.ibb.co/RvLZnCq/Captura-de-pantalla-de-2019-09-30-13-09-27.png) 
 
