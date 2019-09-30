@@ -103,7 +103,7 @@ Nuestra pagina web es informativa por lo que se nos dio como idea llamar la pagi
   
 
 Enlace  figma
-[https://www.figma.com/proto/Za2usuwNV9FLYptoTg26us/InfoGame?node-id=1%3A2&scaling=min-zoom]
+* https://www.figma.com/proto/Za2usuwNV9FLYptoTg26us/InfoGame?node-id=1%3A2&scaling=min-zoom
 
 ### Entrevista
 Con el prototipo de alta pedimos testeos de usuarios reales.
@@ -117,12 +117,22 @@ Le pedimos que comentara a simple vista que era lo que haría en este sitio.
 
 acá les dejamos dos vídeos de este testeo.
 
-[https://drive.google.com/drive/folders/12KTDO6WX9V9yC01dWAxKGefYeDCIk4dR](https://drive.google.com/drive/folders/12KTDO6WX9V9yC01dWAxKGefYeDCIk4dR)
+* https://drive.google.com/drive/folders/12KTDO6WX9V9yC01dWAxKGefYeDCIk4dR?usp=sharing
+
+Gracias a los testeo y entrevistas pudimos integrar la opinion de nuestros usuarios y asi lograr la mejor experiencia de uso posible.
+
 
 Evalucion heurística
 
-[https://docs.google.com/spreadsheets/d/1Gxl_i8Dp2lgaZ38fyJOz1ChUfaUCga1KXu2dwL1jIHo/edit#gid=0]
+Aplique la evalucion heurística al fin de mi proyecto para identificar los errores de usabilidad y mostrar oportunidades de optimización.
+
+* https://docs.google.com/spreadsheets/d/1Gxl_i8Dp2lgaZ38fyJOz1ChUfaUCga1KXu2dwL1jIHo/edit#gid=0s
+
+Responsive
+ se logro resposive en dispositivo movil.
+![image](https://i.ibb.co/RvLZnCq/Captura-de-pantalla-de-2019-09-30-13-09-27.png) 
 
 ## Miembros del equipo
-* Francia Goenaga
+
 * Paola Huenuman
+* Francia Goenaga

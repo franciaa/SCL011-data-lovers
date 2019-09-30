@@ -10,6 +10,11 @@ document.getElementById("next").addEventListener("click", () => {
 });
 
 
+
+document.getElementById("info").addEventListener("click",() => {
+
+});
+
 //creamos funcion que con characters vacio el cual sera en contenedor de cards el cual contendra las cartas dependiendo la necesidad del usuario 
 //su informacion. todo esto se enviara impreso a root el cual contendra todas las impresiones dependiendo su filtro.
 const container = document.getElementById("root");

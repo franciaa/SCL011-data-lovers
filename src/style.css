@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-#font {
+#welcome {
   color: #BE9E2E;
   margin-right: 800px;
 }
@@ -19,8 +19,8 @@ body {
   border-radius: 5px;
   width: 150px;
   height: 50px;
-  margin-left: 40%;
-  margin-top: -25px;
+  margin-left: 45%;
+  margin-top: -55px;
   border-color: gold;
 }
 
@@ -36,7 +36,7 @@ body {
 
 .slider {
   width: 95%;
-  height: 900px;
+  height: 700px;
   margin: auto;
   overflow: hidden;
 }
@@ -45,7 +45,7 @@ body {
   display: flex;
   padding: 0;
   width: 400%;
-  animation: changee 17s infinite;
+  animation: changee 15s infinite;
   animation-timing-function:linear;
 }
 
@@ -55,7 +55,7 @@ body {
 
 .images {
   width: 1300px;
-  height: 450px;
+  height: 355px;
 }
 
 .select {
@@ -153,15 +153,15 @@ body {
     margin-left: -110%;
   }
   50% {
-    margin-left: -230%;
+    margin-left: -210%;
   }
   70% {
-    margin-left: -230%;
+    margin-left: -210%;
   }
   75% {
     margin-left: -310%;
   }
-  90% {
+  100% {
     margin-left: -310;
   }
 }
@@ -189,11 +189,12 @@ body {
     width: 420px;
     height: 200px;
   }
-  #font {
+
+  #welcome {
     padding: 10px;
-display: center;
+    width: 300px;
+height: 100px;
+
   }
-  #font2 {
-    display: none;
+
   }
-}
